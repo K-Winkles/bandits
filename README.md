@@ -87,10 +87,6 @@ There are 3 strategies for production:
 
 However, for contextual bandits, if a rich user embedding as the context vector exists — it can achieve highly personalized results even if the production strategy is not #2.
 
-## Results
-
-To follow
-
 ## Good Reads
 
 1. [Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in MLOps Environments](https://arxiv.org/abs/2503.22595)
